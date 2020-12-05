@@ -1,4 +1,5 @@
 # Generative-Adversarial-Networks-GANs-Specialization
+in this Repository we build Deep Gan for generate Fake images
 
 ----------------------------------------------------------------------------------------
 <p align="center"><img width="40%" src="https://github.com/sahilkhose/Generative-Adversarial-Networks-GANs-Specialization/blob/main/Logo.jpg" /></p>
