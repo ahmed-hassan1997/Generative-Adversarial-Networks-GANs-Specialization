@@ -12,7 +12,7 @@
 
 ## Courses
 ### [1 - Build Basic Generative Adversarial Networks (GANs)]()
-1. Week 1 - [Your First GAN]()
+1. Week 1 - [Your First GAN](https://github.com/ahmed-hassan1997/Generative-Adversarial-Networks-GANs-Specialization/blob/main/course1/week1/build_First_GAN.ipynb)
 2. Week 2 - [Deep Convolutional GAN (DCGAN)]()
 3. Week 3 - [WGAN]()
 4. Week 4 - [Conditional GAN & Controllable Generation]()
